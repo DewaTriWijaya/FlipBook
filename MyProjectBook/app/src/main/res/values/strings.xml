@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyProjectBook</string>
+
+    <string name="f">fill_parent</string>
+</resources>
